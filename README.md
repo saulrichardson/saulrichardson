@@ -1,11 +1,13 @@
 ### Hi!
 
-public class Saul extends Human {
 
-    String school = "Williams College";
-    String studies = "Computer Science and Economics";
-    String interests = "programmining and markets"
-    String[] interests = [theatre, cinema, los doyers, harry styles]
+class Introduction:
+
+    def __init__(self):
+        self.name = "Saul Richardson"
+        self.school = "Williams College"
+        self.studies = "Bachelor of Arts in Computer Science and Economics"
+        self.interests = [markets, programing]
+        self.hobbies = [theatre, dodgers, and listening to harry styles]
+
     
-}
-
