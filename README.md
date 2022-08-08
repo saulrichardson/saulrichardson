@@ -17,5 +17,6 @@ def main():
 ```
   
 ```
+main()
 MemoryError: Stack Overflow
 ```
