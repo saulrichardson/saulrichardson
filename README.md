@@ -11,12 +11,15 @@ class Saul(Human):
         self.interests = [markets, programing]
         self.hobbies = [theatre, dodgers, and listening to harry styles]
      
-def main():
-    saul = Saul()
-    saul.lifeStory()
+
 ```
   
 ```
-main()
+saul = Saul()
+saul.lifeStory()
+MemoryError: Stack Overflow
+```
+
+```
 MemoryError: Stack Overflow
 ```
