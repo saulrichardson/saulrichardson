@@ -8,7 +8,7 @@ class Saul(Human):
         self.name = "Saul Richardson"
         self.school = "Williams College"
         self.studies = "Bachelor of Arts in Computer Science and Economics"
-        self.interests = [markets, programing, financial services]
+        self.interests = [markets, programing]
         self.hobbies = [theatre, dodgers, and listening to harry styles]
      
 
