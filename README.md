@@ -17,7 +17,6 @@ class Saul(Human):
 ```
 saul = Saul()
 saul.lifeStory()
-MemoryError: Stack Overflow
 ```
 
 ```
