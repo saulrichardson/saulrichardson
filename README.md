@@ -25,7 +25,7 @@ MemoryError: Stack Overflow
 
 ```
 I've put some coding projects as well as academic papers I've written here. 
-For something to read, look at the Indian childhood nutrition deficit paper. 
+For something to read, look at the Indian undernutrition deficit paper. 
 Everything else is code.
 More to come!
 ```
