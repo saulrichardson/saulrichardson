@@ -22,3 +22,7 @@ saul.lifeStory()
 ```
 MemoryError: Stack Overflow
 ```
+
+```
+I've put some coding projects as well as academic papers I've written here. For something to read, look at the Indian childhood nutrition deficit paper. Everything is code.
+```
