@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**saulrichardson/saulrichardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+class Saul(Human):
+
+    def __init__(self):
+        self.name = "Saul Richardson"
+        self.school = "Williams College"
+        self.studies = "Bachelor of Arts in Computer Science and Economics"
+        self.interests = [competitive markets, programing, data]
+        self.hobbies = [theatre, dodgers, formula 1, comedy]
+     
+
+```
+  
+```
+saul = Saul()
+saul.lifeStory()
+```
+
+```
+MemoryError: Stack Overflow
+```
