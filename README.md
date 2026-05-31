@@ -8,7 +8,6 @@ class Saul(Human):
         self.name = "Saul Richardson"
         self.school = "Williams College"
         self.major = "Bachelor of Arts in Computer Science and Economics"
-        self.interests = [competitive markets, programing, data]
         self.preferred_vibe_coding_tool = [codex cli]
 ```
   
