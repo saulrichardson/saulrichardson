@@ -1,21 +1,19 @@
-
-
-
-```
+```python
 class Saul(Human):
 
     def __init__(self):
         self.name = "Saul Richardson"
-        self.school = "Williams College"
-        self.major = "Bachelor of Arts in Computer Science and Economics"
-        self.preferred_vibe_coding_tool = [codex cli]
-```
-  
-```
-saul = Saul()
-saul.lifeStory()
+        self.education = [
+            "Harvard University, M.Eng. in Computational Science and Engineering",
+            "Williams College, B.A. in Computer Science and Economics",
+        ]
 ```
 
+```python
+saul = Saul()
+saul.life_story()
 ```
+
+```text
 MemoryError: Stack Overflow
 ```
