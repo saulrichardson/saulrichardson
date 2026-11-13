@@ -17,3 +17,5 @@ saul.life_story()
 ```text
 MemoryError: Stack Overflow
 ```
+
+[RA work at NYU](https://www.saulrichardson.io/research)
